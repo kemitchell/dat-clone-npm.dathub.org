@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "dat": "7.1.1"
+  },
+  "scripts": {
+    "test": "dat clone --verbose http://npm.dathub.org dat-npm"
+  }
+}
